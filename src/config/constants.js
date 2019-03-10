@@ -1,0 +1,9 @@
+export const SPRITE_SIZE = 40
+export const MIN_WORLD_X = 0
+export const MAX_WORLD_X = 760
+export const MIN_WORLD_Y = 0
+export const MAX_WORLD_Y = 360
+export const FACE_WEST = [0, SPRITE_SIZE * 2]
+export const FACE_EAST = [0, SPRITE_SIZE * 1]
+export const FACE_NORTH = [0, SPRITE_SIZE * 3]
+export const FACE_SOUTH = [0, SPRITE_SIZE * 0]
