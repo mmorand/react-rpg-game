@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import World from 'features/world'
+import 'styles.css'
 
 class App extends Component {
   render() {
